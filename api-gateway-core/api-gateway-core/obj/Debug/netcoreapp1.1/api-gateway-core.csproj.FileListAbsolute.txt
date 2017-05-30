@@ -1,0 +1,9 @@
+B:\Projetos\microservices\api-gateway-core\api-gateway-core\api-gateway-core\bin\Debug\netcoreapp1.1\api-gateway-core.deps.json
+B:\Projetos\microservices\api-gateway-core\api-gateway-core\api-gateway-core\bin\Debug\netcoreapp1.1\api-gateway-core.runtimeconfig.json
+B:\Projetos\microservices\api-gateway-core\api-gateway-core\api-gateway-core\bin\Debug\netcoreapp1.1\api-gateway-core.runtimeconfig.dev.json
+B:\Projetos\microservices\api-gateway-core\api-gateway-core\api-gateway-core\bin\Debug\netcoreapp1.1\api-gateway-core.dll
+B:\Projetos\microservices\api-gateway-core\api-gateway-core\api-gateway-core\obj\Debug\netcoreapp1.1\api-gateway-core.csprojResolveAssemblyReference.cache
+B:\Projetos\microservices\api-gateway-core\api-gateway-core\api-gateway-core\obj\Debug\netcoreapp1.1\api-gateway-core.AssemblyInfo.cs
+B:\Projetos\microservices\api-gateway-core\api-gateway-core\api-gateway-core\bin\Debug\netcoreapp1.1\api-gateway-core.pdb
+B:\Projetos\microservices\api-gateway-core\api-gateway-core\api-gateway-core\obj\Debug\netcoreapp1.1\api-gateway-core.dll
+B:\Projetos\microservices\api-gateway-core\api-gateway-core\api-gateway-core\obj\Debug\netcoreapp1.1\api-gateway-core.pdb
